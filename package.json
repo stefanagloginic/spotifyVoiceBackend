@@ -1,0 +1,23 @@
+{
+  "name": "pizza_challenge",
+  "version": "1.0.0",
+  "description": "frontend coding done in 1 hour for pizza challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmbulnzLLC/frontend-challenge.git"
+  },
+  "author": "Stefana Gloginic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmbulnzLLC/frontend-challenge/issues"
+  },
+  "homepage": "https://github.com/AmbulnzLLC/frontend-challenge#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongodb": "^3.0.1"
+  }
+}
